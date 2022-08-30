@@ -1,6 +1,6 @@
 # KIM DONG HYEON 😉
 
-![Dong Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![Dong Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongcarry96&show_icons=true&theme=radical)
 
 
 # 💪Skills
