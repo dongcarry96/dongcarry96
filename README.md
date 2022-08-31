@@ -18,4 +18,4 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black)
-![Amazon](https://img.shields.io/badge/Amazon aws-232F3E?style=for-the-badge&logo=Amazonaws&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazonaws-232F3E?style=for-the-badge&logo=Amazonaws&logoColor=white)
