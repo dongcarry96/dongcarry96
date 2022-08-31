@@ -1,7 +1,7 @@
 # KIM DONG HYEON 😉
 
 ![Dong Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongcarry96&show_icons=true&theme=radical)
-
+(https://github-readme-stats.vercel.app/api/top-langs/?username=dongcarry96&hide=css&layout=compact&theme=slateorange)
 
 # 💪Skills
 ### Platforms & Languages
@@ -18,3 +18,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black)
+![Amazon](https://img.shields.io/badge/Amazon aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white)
